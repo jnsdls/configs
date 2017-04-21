@@ -1,0 +1,39 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Oceanic_Next",
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 140,
+  "prettier.singleQuote": true,
+  "git.confirmSync": false,
+  "gitProjectManager.baseProjectsFolders": [
+    "~/WebstormProjects/"
+  ],
+  "gitProjectManager.ignoredFolders": [
+    "node_modules"
+  ],
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "eslint.run": "onSave",
+  "beautify.language": {
+    "css": [
+      "css",
+      "scss"
+    ],
+    "html": [
+      "htm",
+      "html"
+    ]
+  },
+  "beautify.config": {
+    "end_with_newline": false,
+    "newline_between_rules": true,
+    "selector_separator": " ",
+    "indent_char": " ",
+    "indent_size": 2,
+    "selector_separator_newline": true
+  }
+}
