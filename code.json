@@ -7,7 +7,7 @@
   "prettier.singleQuote": true,
   "git.confirmSync": false,
   "gitProjectManager.baseProjectsFolders": [
-    "~/WebstormProjects/"
+    "C:\\Users\\Jonas\\code"
   ],
   "gitProjectManager.ignoredFolders": [
     "node_modules"
@@ -35,5 +35,13 @@
     "indent_char": " ",
     "indent_size": 2,
     "selector_separator_newline": true
-  }
+  },
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+  "workbench.welcome.enabled": false,
+  "git.enabled": true,
+  "flow.runOnEdit": false,
+  "telemetry.enableTelemetry": false,
+  "eslint.autoFixOnSave": true,
+  "flow.showStatus": false,
+  "terminal.external.windowsExec": "C:\\WINDOWS\\sysnative\\bash.exe"
 }
